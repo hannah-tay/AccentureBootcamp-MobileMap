@@ -1,0 +1,6 @@
+flask
+flask_restx
+requests
+transformers
+pillow
+openai
